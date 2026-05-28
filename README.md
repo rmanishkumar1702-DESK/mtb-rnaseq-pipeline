@@ -191,7 +191,7 @@ The heatmap shows expression patterns across all 6 samples. TCR mutant and Wild 
 ---
 
 ### MA Plot
-![MA Plot](plots/MA plot.png)
+![MA Plot](plots/MA_plot.png)
 
 The MA plot shows log2 fold change vs mean expression. Blue triangles indicate transcripts with large fold changes. Horizontal line at zero represents no change between conditions.
 
