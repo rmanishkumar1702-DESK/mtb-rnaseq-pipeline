@@ -1,0 +1,14 @@
+{
+	"n_targets": 51,
+	"n_bootstraps": 0,
+	"n_processed": 6691026,
+	"n_pseudoaligned": 2076635,
+	"n_unique": 2076635,
+	"p_pseudoaligned": 31.0,
+	"p_unique": 31.0,
+	"kallisto_version": "0.51.1",
+	"index_version": 13,
+	"k-mer length": 31,
+	"start_time": "Sat May 23 12:08:55 2026",
+	"call": "kallisto quant -i mtb_kallisto_index -o TCR3_quant SRR13627329_1_trimmed.fastq SRR13627329_2_trimmed.fastq"
+}
