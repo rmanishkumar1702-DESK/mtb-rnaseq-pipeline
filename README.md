@@ -170,7 +170,7 @@ write.csv(res_df, "DESeq2_results.csv")
 ## Visualizations
 
 ### PCA Plot
-![PCA Plot](PCA_plot.png)
+![PCA Plot](plots/PCA_plot.png)
 
 The PCA plot shows clear separation between TCR deletion mutant (teal) and Wild type BCG (orange) samples on PC1 (58% variance), confirming distinct gene expression profiles between the two conditions.
 
