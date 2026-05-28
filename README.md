@@ -206,9 +206,9 @@ The MA plot shows log2 fold change vs mean expression. Blue triangles indicate t
 ## Environment
 
 - **OS:** Windows 11 with WSL (Ubuntu)
-- **Conda Environment 1:** trimming_env — fastp, SAMtools, SRA Toolkit, BWA
-- **Conda Environment 2:** ngs_analysis — Kallisto, bcftools, SnpEff, IGV
-- **R Environment:** Windows — R 4.6.0, RStudio
+- **Conda Environment 1:** trimming_env — fastp, SRA Toolkit
+- **Conda Environment 2:** ngs_analysis — Kallisto
+- **R Environment:** Windows — R 4.6.0, RStudio - DESeq2, tximport, rtracklayer
 - **FastQC:** installed separately on Windows (D drive)
 
 ---
