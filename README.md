@@ -177,21 +177,21 @@ The PCA plot shows clear separation between TCR deletion mutant (teal) and Wild 
 ---
 
 ### Volcano Plot
-![Volcano Plot](Volcano_plot.png)
+![Volcano Plot](plots/Volcano_plot.png)
 
 The volcano plot shows differentially expressed transcripts between TCR mutant and Wild type. Red dots represent statistically significant transcripts (adjusted p-value < 0.05). The most significant transcript shows high fold change with very low p-value.
 
 ---
 
 ### Heatmap
-![Heatmap](Heatmap.png)
+![Heatmap](plots/Heatmap.png)
 
 The heatmap shows expression patterns across all 6 samples. TCR mutant and Wild type samples cluster separately confirming condition-specific expression differences. Orange/red = high expression, Blue = low expression.
 
 ---
 
 ### MA Plot
-![MA Plot](MA_plot.png)
+![MA Plot](plots/MA_plot.png)
 
 The MA plot shows log2 fold change vs mean expression. Blue triangles indicate transcripts with large fold changes. Horizontal line at zero represents no change between conditions.
 
